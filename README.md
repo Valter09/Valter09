@@ -1,13 +1,10 @@
 ## Oiê! Eu sou o Valter 🌈
 
 <div align="center">
-  <a href="https://github.com/Larissa022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa022&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa022&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/Valter09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valter09&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter09&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Larissa-pic" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150px">
-</div>       
 
 #
 
