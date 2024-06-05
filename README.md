@@ -1,16 +1,22 @@
-## Oi, meu nome é Valter 👋
+## Oiê! Eu sou o Valter 🌈
 
-# 📊 GitHub Stats:
-<img width="395px" src="https://github-readme-stats.vercel.app/api?username=Valter09&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/> <img width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valter09&layout=compact&langs_count=7&theme=neon"/>
+<div align="center">
+  <a href="https://github.com/Larissa022">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissa022&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissa022&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Larissa-pic" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150px">
+</div>       
 
-# 💻 Tech stack/Learning:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+#
 
-# 🌐 Contacts:
-
-<div>
-
-  <a href = "jvmbfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
   
-  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 </div>
