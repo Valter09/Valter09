@@ -1,4 +1,4 @@
-## Oi! Eu sou o Valter 🌈
+## Oi! Eu sou o Valter 
 
 <div align="center">
   <a href="https://github.com/Valter09">
